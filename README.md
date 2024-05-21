@@ -16,11 +16,11 @@ Este projeto é uma API RESTful desenvolvida com Django Rest Framework para gere
 
 3. Crie um ambiente virtual:
    ```bash
-   python3 -m venv venv
+   py -m venv venv
 
 4. Ative o ambiente virtual:
    ```bash
-   source venv/bin/activate  # No Windows: venv\Scripts\activate
+   venv\Scripts\activate
 
 5. Instale as dependências:
    ```bash
